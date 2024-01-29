@@ -30,7 +30,7 @@
   - https://github.com/anuhyasurakanti/Monkey-Pox-Prediction
 
 - **Heart Disease Prediction**
-  - [Project Website](https://projectwebsite.com)
+  - https://github.com/anuhyasurakanti/Heart-Disease-Prediction
 
 ## Contact Information
 - Email: anuhyareddy.surakanti@gmail.com
