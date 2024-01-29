@@ -26,10 +26,10 @@
  - Singing
 
 ## Projects
-- **Sentiment Analysis App**
-  - [GitHub Repo](https://github.com/yourusername/sentiment-analysis-app)
+- **Monkey Pox Prediction**
+  - https://github.com/anuhyasurakanti/Monkey-Pox-Prediction
 
-- **Predictive Modeling Project**
+- **Heart Disease Prediction**
   - [Project Website](https://projectwebsite.com)
 
 ## Contact Information
