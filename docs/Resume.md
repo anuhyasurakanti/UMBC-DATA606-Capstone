@@ -35,7 +35,7 @@
 ## Contact Information
 - Email: anuhyareddy.surakanti@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anuhya-reddy-surakanti/
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- GitHub: https://github.com/anuhyasurakanti
 
 
 
