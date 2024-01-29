@@ -22,8 +22,9 @@
 - **Technology:** Machine learning models and working with data sets, Data Analysis, Exploratory Data Analysis, and Artificial Intelligence, Cloud Computing.
 
  ## Personal Interests
- - Reading books, Watching documentaries
- - Singing
+ - Reading books
+ - Watching documentaries
+ - Cooking
 
 ## Projects
 - **Monkey Pox Prediction**
