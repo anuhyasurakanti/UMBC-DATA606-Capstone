@@ -1,6 +1,6 @@
 # Anuhya Reddy Surakanti
 
-![Headshot](Headshot.jpg.heic)
+![Headshot](Headshot.jpg)
 
 
 ## Education
