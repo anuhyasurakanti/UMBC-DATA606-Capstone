@@ -2,6 +2,10 @@
 
 ![Headshot](Headshot.jpg)
 
+## Contact Information
+- Email: anuhyareddy.surakanti@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anuhya-reddy-surakanti/
+- GitHub: https://github.com/anuhyasurakanti
 
 ## Education
 
@@ -21,11 +25,6 @@
 - **Tools:** AWS, Power BI, Tableau, Django, Github.
 - **Technology:** Machine learning models and working with data sets, Data Analysis, Exploratory Data Analysis, and Artificial Intelligence, Cloud Computing.
 
- ## Personal Interests
- - Reading books
- - Watching documentaries
- - Cooking
-
 ## Projects
 - **Monkey Pox Prediction**
   - https://github.com/anuhyasurakanti/Monkey-Pox-Prediction
@@ -33,10 +32,6 @@
 - **Heart Disease Prediction**
   - https://github.com/anuhyasurakanti/Heart-Disease-Prediction
 
-## Contact Information
-- Email: anuhyareddy.surakanti@gmail.com
-- LinkedIn: https://www.linkedin.com/in/anuhya-reddy-surakanti/
-- GitHub: https://github.com/anuhyasurakanti
 
 
 
