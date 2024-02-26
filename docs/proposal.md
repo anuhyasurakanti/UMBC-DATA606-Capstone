@@ -17,4 +17,4 @@ Furthermore, it poses a serious risk to the security of biometric data and encou
 [Link to dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data)
 The data is obtained from the source Kaggle. 
 - **Data Size:** 1 GB
-- **Data Shape:** The dataset contains 202,599 number of face images of various celebrities
+- **Data Shape:** The dataset contains 202,599 number of face images of various celebrities. In addition to the huge collection of images, the dataset also has annotations of 40 binary attributes such as brown hair, blonde hair, eyeglasses, goatee, etc., providing the necessary data for facial recognition and facial feature recognition projects. Additionally, facial bounding boxes and landmark locations (such as left eye x, and y coordinates).
