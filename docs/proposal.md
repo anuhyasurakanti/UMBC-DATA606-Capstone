@@ -3,7 +3,7 @@
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
 - **Author Name:** Anuhya Reddy Surakanti
 - [Github](https://github.com/anuhyasurakanti)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/anuhya-reddy-surakanti/)
 
 # 2. Background
 ### What is it about?
