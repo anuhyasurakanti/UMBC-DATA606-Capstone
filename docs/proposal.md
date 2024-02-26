@@ -1,9 +1,9 @@
 # 1. Deepfake Detection 
 - **Project Title:** Deepfake Detection
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
-- **Project Title:** Anuhya Reddy Surakanti
-- **GitHub:**
-- **LinkedIn:**
+- **Author Name:** Anuhya Reddy Surakanti
+- [Github]()
+- [LinkedIn]()
 
 # 2. Background
 ### What is it about?
