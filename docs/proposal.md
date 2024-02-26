@@ -1,6 +1,6 @@
 # 1. Deepfake Detection 
 - **Project Title:** Deepfake Detection
-- **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
+- **Prepared for:** UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - **Author Name:** Anuhya Reddy Surakanti
 - [GitHub](https://github.com/anuhyasurakanti)
 - [LinkedIn](https://www.linkedin.com/in/anuhya-reddy-surakanti/)
@@ -14,7 +14,7 @@ Recent social media scandals involving the replacement of famous people's faces 
 Furthermore, it poses a serious risk to the security of biometric data and encourages other fraudulent and counterfeiting actions. DeepFake can be easily implemented by several face-swapping apps like Face2Face and mobile apps like Snapchat that use pre-trained generative adversarial networks.
 
 # 3. Dataset
-[Link to dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data)
+[Link to dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data)
 The data is obtained from the source Kaggle. 
-- **Data Size:** 1 GB
-- **Data Shape:** The dataset contains 202,599 number of face images of various celebrities. In addition to the huge collection of images, the dataset also has annotations of 40 binary attributes such as brown hair, blonde hair, eyeglasses, goatee, etc., providing the necessary data for facial recognition and facial feature recognition projects. Additionally, facial bounding boxes and landmark locations (such as left eye x, and y coordinates).
+- **Data Size:** 1.8 GB
+- **Data Shape:** The images are divided into train, test and validation sets. Each image is a 256 x 256 image of a human face which is either real or fake.There are ~140k training images with ~40k validation images and ~10k test samples. There are two classes, Fake and Real.
