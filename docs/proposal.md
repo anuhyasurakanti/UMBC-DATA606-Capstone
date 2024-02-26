@@ -15,3 +15,6 @@ Furthermore, it poses a serious risk to the security of biometric data and encou
 
 # 3. Dataset
 [Link to dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data)
+The data is obtained from the source Kaggle. 
+- **Data Size:** 1 GB
+- **Data Shape:** The dataset contains 202,599 number of face images of various celebrities
