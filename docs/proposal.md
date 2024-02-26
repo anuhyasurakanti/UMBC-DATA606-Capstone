@@ -1,6 +1,6 @@
 # 1. Deepfake Detection 
 - **Project Title:** Deepfake Detection
-- **Prepared for UMBC Data Science Master Degree Capstone by Dr Chajie Wang**
+- **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
 - **Project Title:** Anuhya Reddy Surakanti
 - **GitHub:**
 - **LinkedIn:**
@@ -14,3 +14,4 @@ Recent social media scandals involving the replacement of famous people's faces 
 Furthermore, it poses a serious risk to the security of biometric data and encourages other fraudulent and counterfeiting actions. DeepFake can be easily implemented by several face-swapping apps like Face2Face and mobile apps like Snapchat that use pre-trained generative adversarial networks.
 
 # 3. Dataset
+[Link to dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/data)
