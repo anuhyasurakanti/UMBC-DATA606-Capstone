@@ -16,5 +16,5 @@ Furthermore, it poses a serious risk to the security of biometric data and encou
 # 3. Dataset
 [Link to dataset](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data)
 The data is obtained from the source Kaggle. 
-- **Data Size:** 6.7MB
+- **Data Size:** 46.7MB
 - **Data Shape:** The images are divided into train, test and validation sets. All images in the dataset are preprocessed and resized to a resolution of 256 x 256 image of a human face which is either real or fake.There are 610 training images with 900 validation images and 2410 test samples. There are two classes, Fake and Real.
