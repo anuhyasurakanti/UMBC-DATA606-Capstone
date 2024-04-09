@@ -1,4 +1,4 @@
-# 1. Deepfake Detection 
+5.# 1. Deepfake Detection 
 - **Project Title:** Deepfake Detection
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - **Author Name:** Anuhya Reddy Surakanti
@@ -18,3 +18,5 @@ Furthermore, it poses a serious risk to the security of biometric data and encou
 The data is obtained from the source Kaggle. 
 - **Data Size:** 46.7MB
 - **Data Shape:** The images are divided into train, test and validation sets. All images in the dataset are preprocessed and resized to a resolution of 256 x 256 image of a human face which is either real or fake.There are 610 training images with 900 validation images and 2410 test samples. There are two classes, Fake and Real.
+
+# Machine Learning Models
