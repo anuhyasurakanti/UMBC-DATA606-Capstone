@@ -40,7 +40,7 @@ The main aim of the project is to apply the following models on the above datase
   <img src="docs/CNN_graph.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
   
 
-  <img src="docs/CNN.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:100px;">
+  <img src="docs/CNN.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 350px; height:100px;">
 
 ### b. ResNet:
 - ResNets (Residual Networks) are a type of deep learning technique that is particularly useful for picture recognition and processing applications. 
