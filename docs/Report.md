@@ -6,7 +6,7 @@
 - **Author Name:** Anuhya Reddy Surakanti
 - [GitHub](https://github.com/anuhyasurakanti)
 - [LinkedIn](https://www.linkedin.com/in/anuhya-reddy-surakanti/)
-- [Powerpoint Presentation] (https://github.com/anuhyasurakanti/UMBC-DATA606-Capstone/blob/main/docs/Capstone_Anuhya.pptx
+- [Powerpoint Presentation] (https://github.com/anuhyasurakanti/UMBC-DATA606-Capstone/blob/main/docs/Capstone_Anuhya.pptx)
 
 # 2. Background
 ### What is it about?
