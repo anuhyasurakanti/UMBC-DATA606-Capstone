@@ -55,7 +55,7 @@ The main aim of the project is to apply the following models on the above datase
 
 - Streamlit has many benefits, including simple deployment, real-time engagement, connectivity with data science libraries, and ease of use. It also offers choices for altering the arrangement to meet various project specifications.
 
-<img src="docs/Streamlit1.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 250px; height:250px;">
+<img src="docs/Streamlit1.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
 
 
 - This is the webpage we developed using streamlit application. We can directly upload an image and run the detection button then it runs the detection in the background colab and gives us the output along with accuracy.
