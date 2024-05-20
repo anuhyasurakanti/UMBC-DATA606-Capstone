@@ -61,7 +61,7 @@ The main aim of the project is to apply the following models on the above datase
   
   <img src="docs/VGG_graph.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
   
-  <img src="docs/VGG_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
+  <img src="docs/VGG_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
 
 # Evaluation and Result
 - The three models are evaluated on the test and validation datasets and the accuracy obtained from both are compared among the three models.
@@ -81,7 +81,8 @@ The main aim of the project is to apply the following models on the above datase
 - This is the webpage we developed using streamlit application. We can directly upload an image and run the detection button then it runs the detection in the background colab and gives us the output along with accuracy.
 
 # 7. Conclusion
-
+- From the above three models we can observe that the VGG-16 model's performance on the unseen test data is yielding best results with highest accuracy.
+- Hence, this model will help us in assessing how well the model generates to new and unseen samples.
 
 # 8. References
 1. https://www.gao.gov/products/gao-24-107292
