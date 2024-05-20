@@ -46,12 +46,15 @@ The main aim of the project is to apply the following models on the above datase
 - VGG is a convolutional neural network (CNN) that is noted for its simplicity and efficiency.
 - VGGs typically consist of a series of convolutional and pooling layers, followed by a few fully linked layers.
 - Architecure of VGG is as follows:
-- <img src="docs/VGG.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
+  <img src="docs/VGG.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
+
+- The model accuracy and the model loss obtained are as follows:
+  <img src="docs/Streamlit1.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
 
 # Evaluation and Result
 - The three models are evaluated on the test and validation datasets and the accuracy obtained from both are compared among the three models.
 - From the above accuracies obtained from each model we can observe that the VGG has the highest accuracy hence it is the best fit for our dataset.
-- <img src="docs/Result.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
+- <img src="docs/Result.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
 
 # 6. Application of the Trained Models
 - **Streamlit Application :** For machine learning and data science projects, Streamlit is an open-source Python toolkit that makes it easier to create and distribute eye-catching, unique web applications. Because of its intuitive and user-friendly design, developers may create interactive applications with little to no code.
