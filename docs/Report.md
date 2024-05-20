@@ -37,14 +37,18 @@ The main aim of the project is to apply the following models on the above datase
 - CNN design is inspired by visual processing in the human brain, making it ideal for collecting hierarchical patterns and spatial connections inside images.
 - CNNs are widely used in areas such as image classification, object detection, facial recognition, and medical image analysis.
 
-  <img src="docs/CNN.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
+  <img src="docs/CNN_graph.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
 
-  <img src="docs/CNN_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
+  <img src="docs/CNN.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
 
 ### b. ResNet:
 - ResNets (Residual Networks) are a type of deep learning technique that is particularly useful for picture recognition and processing applications. 
 - ResNets are notable for their ability to train extremely deep networks without overfitting. ResNets are commonly utilized in keypoint detection activities.
 - Keypoint detection is the process of identifying certain points on an object in a picture.
+
+  <img src="docs/ResNet.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
+
+  <img src="docs/ResNet_acc" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
 
 ### c. VGG:
 - VGG is a convolutional neural network (CNN) that is noted for its simplicity and efficiency.
@@ -56,7 +60,8 @@ The main aim of the project is to apply the following models on the above datase
 - The model accuracy and the model loss obtained are as follows:
   
   <img src="docs/VGG_graph.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
-  <img src="docs/VGG_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 400px; height:300px;">
+  
+  <img src="docs/VGG_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
 
 # Evaluation and Result
 - The three models are evaluated on the test and validation datasets and the accuracy obtained from both are compared among the three models.
