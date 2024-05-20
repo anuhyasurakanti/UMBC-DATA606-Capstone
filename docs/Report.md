@@ -1,4 +1,4 @@
-# 1. Deepfake Detection 
+# Deepfake Detection 
 
 ### Anuhya Reddy Surakanti - 4th Semester
 - **Project Title:** Deepfake Detection
@@ -6,6 +6,10 @@
 - **Author Name:** Anuhya Reddy Surakanti
 - [GitHub](https://github.com/anuhyasurakanti)
 - [LinkedIn](https://www.linkedin.com/in/anuhya-reddy-surakanti/)
+
+# 1. Introduction
+- Deepfake detection is a task of detectig fake videos or images that have been generated using deep learning techniques.
+- These can entail creating fake photos from scratch that seem authentic, using voice skins or even voice clones of public figures.
 
 # 2. Background
 ### What is it about?
