@@ -61,7 +61,7 @@ The main aim of the project is to apply the following models on the above datase
   
   <img src="docs/VGG_graph.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
   
-  <img src="docs/VGG_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 500px; height:300px;">
+  <img src="docs/VGG_acc.png" alt="Web Page" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height:300px;">
 
 # Evaluation and Result
 - The three models are evaluated on the test and validation datasets and the accuracy obtained from both are compared among the three models.
